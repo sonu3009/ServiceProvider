@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'window-latest'
+  vmImage: 'Window-latest'
 
 steps:
 - task: NodeTool@0
